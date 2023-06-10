@@ -8,6 +8,6 @@ imie = input("Jak masz na imię? ")
 
 # Wyświetlenie komunikatu powitalnego z podanym imieniem
 print("Miło Cię poznać, " + imie + "!")
-// druga edycja
-// kolejna edycja
-// kolejna edycja
+ edycja1
+ edycja2
+ edycja3
